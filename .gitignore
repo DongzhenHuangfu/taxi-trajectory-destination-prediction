@@ -1,0 +1,6 @@
+__MACOSX
+maps_for_true
+split_data/*.csv
+evaluation_script.r
+*.csv
+*.pickle

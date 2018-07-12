@@ -2,7 +2,6 @@
 
 import csv
 import glob
-import numpy as np
 
 files = glob.glob("./part*.csv")
 
