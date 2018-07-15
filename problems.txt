@@ -1,0 +1,1 @@
+1. The track datas within a value interval is too few, which means for example if two cars start from the same place, but one drives only 20 spots, and the other go through the 20 spots and than travel further 100 spots, but I can only select the first 20 spots for the same input size.
