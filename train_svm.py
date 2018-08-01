@@ -1,5 +1,6 @@
 from sklearn import svm
 import pickle
+from sklearn.externals import joblib 
 
 with open('././train_data/train_for_classifier_uniform_area.pickle', 'rb') as file:
     data_dict = pickle.load(file)
