@@ -1,0 +1,1 @@
+jupyter notebook deep_net.ipynb
